@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.vananh.exercise6_fems_automation.test.ProfileTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.722 s -- in com.vananh.exercise6_fems_automation.test.ProfileTest

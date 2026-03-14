@@ -1,0 +1,4 @@
+username,password,expectedResult
+admin,12345,success
+admin,wrongpass,error
+,12345,error
